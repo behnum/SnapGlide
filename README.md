@@ -2,6 +2,10 @@
 
 Employing `scroll-snap-type` and `scroll-snap-align` for that sleek vertical scroll snapping effect, effortlessly aligning sections at the viewport's summit. This brings about a seamless, slide-like navigation experience as users glide both upward and downward.
 
+## Documentation
+
+[MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/scroll-snap-type)
+
 ## Browser Support
 
 [scroll-snap-type](https://caniuse.com/?search=scroll-snap-type)
